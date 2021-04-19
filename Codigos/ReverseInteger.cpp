@@ -16,7 +16,7 @@
 * Saída: -321
 *
 * SOLUÇÃO
-* Espllicação no código.
+* Explicação no código.
 *
 * TESTE DE EFICIÊNCIA
 * Tempo de Execução: 0 ms
