@@ -8,31 +8,30 @@
 *
 * EXEMPLO
 * Entrada: s = "abcabcbb"
-* SaÌda: 3
-* ExplicaÁ„o: A resposta È "abc", com o comprimento de 3.
+* Sa√≠da: 3
+* Explica√ß√£o: A resposta √© "abc", com o comprimento de 3.
 *
-* SOLU«√O
-* Criamos um vector com tamanho 128 (porque È a quantidade de caracteres que existem e s„o representados por decimais
-* de 0 a 127. Ex: 'a' = 97) para armazenar a contagem de repetiÁ„o de cada letra.
-* Criamos duas variaveis (direita, esquera) para andar pela string e respresentar o intervalo em que as letras n„o se repetem.
-* Vari·vel "soma" ser· para guardar o maior comprimento da substring (ser· nossa resposta ao problema).
-* Em seguida temos dois whiles, um para andar ‡ direita pela string e outro quando houver ocorrÍncia de letra repetida.
+* SOLU√á√ÉO
+* Criamos um vector com tamanho 128 (porque √© a quantidade de caracteres que existem e s√£o representados por decimais
+* de 0 a 127. Ex: 'a' = 97) para armazenar a contagem de repeti√ß√£o de cada letra.
+* Criamos duas variaveis (direita, esquera) para andar pela string e respresentar o intervalo em que as letras n√£o se repetem.
+* Vari√°vel "soma" ser√° para guardar o maior comprimento da substring (ser√° nossa resposta ao problema).
+* Em seguida temos dois whiles, um para andar √† direita pela string e outro quando houver ocorr√™ncia de letra repetida.
 * Agora pegamos o primeiro caractere da string e colocamos ele em nosso vector para armazenar que ele aparece uma vez (ex: 'a'
-* tem valor 97, ent„o no Ìndice 97 adicionamos 1. O prÛximo 'a' adicionar· + 1 ao mesmo Ìndice).
-* O segundo while aciona quando houver alguma repetiÁ„o, ent„o movemos o ponto da esquerda atÈ encontrar onde o caractere se 
+* tem valor 97, ent√£o no √≠ndice 97 adicionamos 1. O pr√≥ximo 'a' adicionar√° + 1 ao mesmo √≠ndice).
+* O segundo while aciona quando houver alguma repeti√ß√£o, ent√£o movemos o ponto da esquerda at√© encontrar onde o caractere se 
 * repete e removemos ele do nosso vector.
-* No final a cada caractere que n„o se repete no range, adicionamos ele a nossa vari·vel soma.
+* No final a cada caractere que n√£o se repete no range, adicionamos ele a nossa vari√°vel soma.
 *
-* TESTE DE EFICI NCIA
-* Tempo de ExecuÁ„o: 4 ms
-* MemÛria Usada: 7.6 MB
+* TESTE DE EFICI√äNCIA
+* Tempo de Execu√ß√£o: 4 ms
+* Mem√≥ria Usada: 7.6 MB
 *****************************************************************************************/
 
 #include <iostream>
 #include <vector> //std::vector 
 #include <string> //std::string
 #include <algorithm> //std::max
-
 
 class Solution 
 {
@@ -58,13 +57,11 @@ public:
             }
 
             soma = std::max(soma, direita - esquerda + 1);
-
             ++direita;
         }
 
         return soma;
     }
-
 };
 
 int main()

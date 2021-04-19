@@ -24,4 +24,11 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/AddTwoNumbers.cpp" rel-"nofollow">C++</td>
         <td>Médio</>
     </tr>
+     <tr>
+        <td>03</td>
+        <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters
+</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/LongestSubstringWithoutRepeatingCharacters.cpp" rel-"nofollow">C++</td>
+        <td>Médio</>
+    </tr>
 </table>
