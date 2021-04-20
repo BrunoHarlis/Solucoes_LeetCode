@@ -43,4 +43,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/ReverseInteger.cpp" rel-"nofollow">C++</td>
         <td>Fácil</>
     </tr>
+    <tr>
+        <td>08</td>
+        <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String to Integer (atoi)</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/StringtoInteger%20(atoi).cpp" rel-"nofollow">C++</td>
+        <td>Médio</>
+    </tr>
 </table>
