@@ -49,4 +49,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/StringtoInteger%20(atoi).cpp" rel-"nofollow">C++</td>
         <td>Médio</>
     </tr>
+    <tr>
+        <td>09</td>
+        <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/PalindromeNumber.cpp" rel-"nofollow">C++</td>
+        <td>Fácil</>
+    </tr>
 </table>
