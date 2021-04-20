@@ -1,33 +1,33 @@
-//fonte: https://leetcode.com/problems/palindrome-number/
+//Fonte: https://leetcode.com/problems/palindrome-number/
 //Autor: Bruno Harlis
 
 /*****************************************************************************************
 * PROBLEMA PROPOSTO
-* Implemente a função myAtoi(string s) que converte uma string em um inteiro assinado de 32 bits 
-* (semelhante à função C / C ++ atoi).
+* Implemente a funÃ§Ã£o myAtoi(string s) que converte uma string em um inteiro assinado de 32 bits 
+* (semelhante Ã  funÃ§Ã£o C / C ++ atoi).
 *
 * Exemplo 1:
 * Entrada: x = 121
-* Saída: true
+* SaÃ­da: true
 * 
 * Exemplo 2:
 * Entrada: x = -121
-* Saída: false
+* SaÃ­da: false
 * 
 * Exemplo 3:
 * Entrada: x = 10
-* Saída: false
+* SaÃ­da: false
 * 
 * Exemplo 4:
 * Entrada: x = -101
-* Saída: false
+* SaÃ­da: false
 * 
 * Restricoes:
-* Inteiro não pode estourar.
+* Inteiro nÃ£o pode estourar.
 * 
-* TESTE DE EFICIÊNCIA
-* Tempo de Execução: 12 ms
-* Memória Usada: 5.7 MB
+* TESTE DE EFICIÃŠNCIA
+* Tempo de ExecuÃ§Ã£o: 12 ms
+* MemÃ³ria Usada: 5.7 MB
 *****************************************************************************************/
 #include <iostream>
 
