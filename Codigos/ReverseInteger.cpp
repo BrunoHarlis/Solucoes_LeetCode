@@ -1,27 +1,26 @@
 //fonte: https://leetcode.com/problems/reverse-integer/
 //Autor: Bruno Harlis
 
-
 /*****************************************************************************************
 * PROBLEMA PROPOSTO
-* Dado um n˙mero inteiro x de 32 bits com sinal, retorna x com seus dÌgitos invertidos.
-* Se a revers„o de x fizer com que o valor saia do intervalo de inteiros de 32 bits com sinal [-231, 231 - 1],
+* Dado um n√∫mero inteiro x de 32 bits com sinal, retorna x com seus d√≠gitos invertidos.
+* Se a revers√£o de x fizer com que o valor saia do intervalo de inteiros de 32 bits com sinal [-231, 231 - 1],
 * retorne 0.
 *
 * Exemplo 1:
 * Entrada: x = 123
-* SaÌda: 321
+* Sa√≠da: 321
 *
 * Exemplo 2:
 * Entrada: x = -123
-* SaÌda: -321
+* Sa√≠da: -321
 *
-* SOLU«√O
+* SOLU√á√ÉO
+* Explica√ß√£o no c√≥digo.
 *
-*
-* TESTE DE EFICI NCIA
-* Tempo de ExecuÁ„o: 0 ms
-* MemÛria Usada: 5.7 MB
+* TESTE DE EFICI√äNCIA
+* Tempo de Execu√ß√£o: 0 ms
+* Mem√≥ria Usada: 5.7 MB
 *****************************************************************************************/
 #include <iostream>
 
