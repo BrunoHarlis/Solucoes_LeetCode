@@ -1,5 +1,6 @@
 //Fonte: https://leetcode.com/problems/palindrome-number/
 //Autor: Bruno Harlis
+//Data: 20/04/2021
 
 /*****************************************************************************************
 * PROBLEMA PROPOSTO
