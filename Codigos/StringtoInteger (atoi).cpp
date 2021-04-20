@@ -1,35 +1,35 @@
 //fonte: https://leetcode.com/problems/string-to-integer-atoi/
 //Autor: Bruno Harlis
-
+//Data: 20/04/2021
 
 /*****************************************************************************************
 * PROBLEMA PROPOSTO
-* Implemente a função myAtoi(string s) que converte uma string em um inteiro assinado de 32 bits 
-* (semelhante à função C / C ++ atoi).
+* Implemente a funÃ§Ã£o myAtoi(string s) que converte uma string em um inteiro assinado de 32 bits 
+* (semelhante Ã  funÃ§Ã£o C / C ++ atoi).
 *
 * Exemplo 1:
 * Entrada: s = "42"
-* Saída: 42
+* SaÃ­da: 42
 * 
 * Exemplo 2:
 * Entrada: s = "  -42"
-* Saída: 42
+* SaÃ­da: 42
 * 
 * Exemplo 3:
 * Entrada: s = "4193 com palavras" 
-* Saída: 4193
+* SaÃ­da: 4193
 * 
 * Exemplo 4:
 * Entrada: s = "palavras e 987" 
-* Saída: 987
+* SaÃ­da: 987
 * 
 * Exemplo 5:
 * Entrada: s = "-91283472332" 
-* Saída: -2147483648
+* SaÃ­da: -2147483648
 * 
-* TESTE DE EFICIÊNCIA
-* Tempo de Execução: 4 ms
-* Memória Usada: 8 MB
+* TESTE DE EFICIÃŠNCIA
+* Tempo de ExecuÃ§Ã£o: 4 ms
+* MemÃ³ria Usada: 8 MB
 *****************************************************************************************/
 
 #include <iostream>
