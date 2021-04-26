@@ -55,4 +55,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/PalindromeNumber.cpp" rel-"nofollow">C++</td>
         <td>Fácil</>
     </tr>
+    <tr>
+        <td>11</td>
+        <td><a href="https://leetcode.com/problems/container-with-most-water/">Container With Most Water.cpp</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/ContainerWithMostWater.cpp" rel-"nofollow">C++</td>
+        <td>Médio</>
+    </tr>
 </table>
