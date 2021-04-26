@@ -3,7 +3,7 @@
 //Date: 25/04/2020
 
 /******************************************************************************************
-* PROBLEMA PROPOSTO
+* PROPOSED PROBLEM
 * Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai).
 * n vertical lines are drawn such that the two endpoints of the line i is at (i, ai) and (i, 0).
 * Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
@@ -18,8 +18,8 @@
 * Input: height = [4,3,2,1,4]
 * Output: 16
 * 
-* TESTE DE EFICIÊNCIA
-* Brute force
+* EFFICIENCY TEST
+* Brute force.
 * 
 *****************************************************************************************/
 #include <iostream>
@@ -52,3 +52,33 @@ int main()
     Solution s;
     std::cout << s.maxArea( x );
 }
+
+/******************************************************************************************
+* Autor: Bruno Harlis
+* Date: 26/04/2020
+*
+* DYNAMIC SOLUTION
+*
+* EFFICIENCY TEST
+* Runtime: 68 ms
+* Memory Usage: 59.1 MB
+*****************************************************************************************/
+
+class Solution 
+{
+public:
+    int maxArea(std::vector<int>& height) 
+    {
+        int area{ 0 };
+        int i{ 0 };
+        int j = height.size() - 1;
+        while (i != j)
+        {
+            int tempArea = std::min(height[i], height[j]) * (j - i);
+            area = std::max(tempArea, area);
+            (height[i] > height[j])? --j : ++i;
+        }
+
+        return area;
+    }
+};
