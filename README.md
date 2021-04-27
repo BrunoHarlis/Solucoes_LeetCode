@@ -1,5 +1,5 @@
-# Solucoes_LeetCode
- Soluções para os problemas do LeetCode com explicação em português.
+# Soluções LeetCode
+ Soluções para os problemas do do site LeetCode. Atualmente com 11 problemas resolvidos.
 
 
 
