@@ -75,7 +75,7 @@
     </tr>
     <tr>
         <td>14</td>
-        <td><a href="tps://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
+        <td><a href="https://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/14-LongestCommonPrefix.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
     </tr>
