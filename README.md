@@ -61,10 +61,16 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/ContainerWithMostWater.cpp" rel-"nofollow">C++</td>
         <td>Medium</>
     </tr>
-     <tr>
+    <tr>
         <td>12</td>
         <td><a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/IntegerToRoman.cpp" rel-"nofollow">C++</td>
         <td>Medium</>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/13-RomantoInteger.cpp" rel-"nofollow">C++</td>
+        <td>Easy</>
     </tr>
 </table>
