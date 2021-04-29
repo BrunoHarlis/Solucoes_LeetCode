@@ -79,4 +79,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/14-LongestCommonPrefix.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
     </tr>
+    <tr>
+        <td>15</td>
+        <td><a href="https://leetcode.com/problems/3sum/">3 Sum</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/15-3Sum.cpp" rel-"nofollow">C++</td>
+        <td>Medium</>
+    </tr>
 </table>
