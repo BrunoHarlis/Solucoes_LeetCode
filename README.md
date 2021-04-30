@@ -85,4 +85,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/15-3Sum.cpp" rel-"nofollow">C++</td>
         <td>Medium</>
     </tr>
+     <tr>
+        <td>16</td>
+        <td><a href="https://leetcode.com/problems/3sum-closest/">3 Sum Closest</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/16-3SumClosest.cpp" rel-"nofollow">C++</td>
+        <td>Medium</>
+    </tr>
 </table>
