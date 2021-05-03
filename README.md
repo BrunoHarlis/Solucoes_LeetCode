@@ -91,4 +91,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/16-3SumClosest.cpp" rel-"nofollow">C++</td>
         <td>Medium</>
     </tr>
+    <tr>
+        <td>17</td>
+        <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Letter Combinations of a Phone Number</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/17-LetterCombinationsOfAPhoneNumber.cpp" rel-"nofollow">C++</td>
+        <td>Medium</>
+    </tr>
 </table>
