@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 13 problemas resolvidos.
+ Soluções para os problemas do site LeetCode. Atualmente com 14 problemas resolvidos.
 
 
 
