@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 14 problemas resolvidos.
+ Soluções para os problemas do site LeetCode. Atualmente com 15 problemas resolvidos.
 
 
 
@@ -96,5 +96,11 @@
         <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Letter Combinations of a Phone Number</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/17-LetterCombinationsOfAPhoneNumber.cpp" rel-"nofollow">C++</td>
         <td>Medium</>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/20-Valid%20Parentheses.cpp" rel-"nofollow">C++</td>
+        <td>Easy</>
     </tr>
 </table>
