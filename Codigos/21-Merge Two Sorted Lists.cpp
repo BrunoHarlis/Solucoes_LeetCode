@@ -1,3 +1,25 @@
+//Source: https://leetcode.com/problems/merge-two-sorted-lists/submissions/
+//Author: Bruno Harlis
+//Date: 28/05/2020
+
+/******************************************************************************************
+* PROPOSED PROBLEM
+* Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing
+* together the nodes of the first two lists.
+*
+* Exemple 1
+* Input: l1 = [1,2,4], l2 = [1,3,4]
+* Output: [1,1,2,3,4,4]
+*
+* Example 2
+* Input: l1 = [], l2 = [0]
+* Output: [0]
+*
+* EFFICIENCY TEST
+* Runtime: 4 ms
+* Memory Usage: 6.1 MB
+*****************************************************************************************/
+
 #include <iostream>
 
 struct ListNode 
