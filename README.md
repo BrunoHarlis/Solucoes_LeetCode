@@ -103,4 +103,10 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/20-Valid%20Parentheses.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
     </tr>
+    <tr>
+        <td>21</td>
+        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/21-Merge%20Two%20Sorted%20Lists.cpp" rel-"nofollow">C++</td>
+        <td>Easy</>
+    </tr>
 </table>
