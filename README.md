@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 16 problemas resolvidos.
+ Soluções para os problemas do site LeetCode. Atualmente com 17 problemas resolvidos.
 
 
 
@@ -98,6 +98,12 @@
         <td>Medium</>
     </tr>
     <tr>
+        <td>19</td>
+        <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/19-Remove%20Nth%20Node%20From%20End%20of%20List.cpp" rel-"nofollow">C++</td>
+        <td>Medium</>
+    </tr>
+    <tr>
         <td>20</td>
         <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/20-Valid%20Parentheses.cpp" rel-"nofollow">C++</td>
@@ -109,4 +115,5 @@
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/21-Merge%20Two%20Sorted%20Lists.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
     </tr>
+     
 </table>
