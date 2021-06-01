@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 17 problemas resolvidos.
+ Soluções para os problemas do site LeetCode. Atualmente com 18 problemas resolvidos.
 
 
 
@@ -114,6 +114,12 @@
         <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/21-Merge%20Two%20Sorted%20Lists.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/23-Merge%20k%20Sorted%20Lists.cpp" rel-"nofollow">C++</td>
+        <td>Hard</>
     </tr>
      
 </table>
