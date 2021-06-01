@@ -1,8 +1,6 @@
 # Soluções LeetCode
  Soluções para os problemas do site LeetCode. Atualmente com 18 problemas resolvidos.
 
-
-
 <table>
 <thead>
     <tr>
@@ -16,7 +14,7 @@
         <td>01</td>
         <td><a href="https://leetcode.com/problems/two-sum/" rel="nofollow">Two Sum</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/1-TwoSum.cpp" rel-"nofollow">C++</td>
-        <td>Easy</>
+        <td> <font color="green">Easy</font>  </>
     </tr>
     <tr>
         <td>02</td>
