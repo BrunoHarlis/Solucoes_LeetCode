@@ -1,5 +1,7 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 19 problemas resolvidos.
+ Soluções para os problemas do site LeetCode. Atualmente com 19 problemas resolvidos. 
+ 
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode.png?raw=true)
 
 <table>
 <thead>
