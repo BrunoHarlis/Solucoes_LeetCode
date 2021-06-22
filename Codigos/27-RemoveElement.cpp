@@ -1,4 +1,4 @@
-//Fonte:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+//Fonte:https://leetcode.com/problems/remove-element/
 //Autor:Bruno Harlis
 //Data: 22/06/2020
 
