@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 19 problemas resolvidos. 
+ Soluções para os problemas do site LeetCode. Atualmente com 20 problemas resolvidos. 
  
  ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode.png?raw=true)
 
@@ -125,6 +125,12 @@
         <td>26</td>
         <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/26-RemoveDuplicatesfromSortedArray.cpp" rel-"nofollow">C++</td>
+        <td>Easy</>
+    </tr>
+     <tr>
+        <td>27</td>
+        <td><a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/27-RemoveElement.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
     </tr>
      
