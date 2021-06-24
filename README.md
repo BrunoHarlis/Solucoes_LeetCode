@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 20 problemas resolvidos. 
+ Soluções para os problemas do site LeetCode. Atualmente com 21 problemas resolvidos. 
  
  ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode.png?raw=true)
 
@@ -120,6 +120,12 @@
         <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/23-Merge%20k%20Sorted%20Lists.cpp" rel-"nofollow">C++</td>
         <td>Hard</>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/24-SwapNodesinPairs.cpp" rel-"nofollow">C++</td>
+        <td>Medium</>
     </tr>
     <tr>
         <td>26</td>
