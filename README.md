@@ -1,5 +1,5 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 21 problemas resolvidos. 
+ Soluções para os problemas do site LeetCode. Atualmente com 23 problemas resolvidos. 
  
  ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode.png?raw=true)
 
@@ -138,6 +138,12 @@
         <td><a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
         <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/27-RemoveElement.cpp" rel-"nofollow">C++</td>
         <td>Easy</>
+    </tr>
+      <tr>
+        <td>33</td>
+        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
+        <td><a href="https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/33-Search%20in%20Rotated%20Sorted%20Array.cpp" rel-"nofollow">C++</td>
+        <td>Medium</>
     </tr>
      
 </table>
