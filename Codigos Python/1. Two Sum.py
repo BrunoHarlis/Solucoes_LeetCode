@@ -12,6 +12,6 @@ def twoSum(nums, target):
 
 
 numbers = [2, 7, 11, 15]
-target: int = 9
-x = twoSum(numbers, 9)
-print(x)
+target = 9
+
+print(twoSum(numbers, target))
