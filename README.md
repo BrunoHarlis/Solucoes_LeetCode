@@ -3,7 +3,7 @@
  
  Quantidade de problemas resolvidos em Python e C++:  
  C++: 27  
- Python: 01 
+ Python: 02 
  
  ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2005.png)
 
@@ -32,5 +32,5 @@
 07  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/7-ReverseInteger.cpp)|Easy
 04  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/4-MedianOfTwoSortedArrays.cpp)|Hard
 03  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/3-LongestSubstringWithoutRepeatingCharacters.cpp)|Medium
-02  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/2-AddTwoNumbers.cpp)|Medium
+02  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++, ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/2-AddTwoNumbers.cpp)[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium
 01  |[Two Sum](https://leetcode.com/problems/two-sum)|[C++, ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/1-TwoSum.cpp)[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/1.%20Two%20Sum.py)|Easy
