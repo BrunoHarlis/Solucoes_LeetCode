@@ -1,10 +1,15 @@
 # Soluções LeetCode
- Soluções para os problemas do site LeetCode. Atualmente com 26 problemas resolvidos e C++ e 01 em Python. 
+ Meu projeto para solucionar todos os problemas do site LeetCode.    
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2004.png)
+ Quantidade de problemas resolvidos em Python e C++:  
+ C++: 27  
+ Python: 01 
+ 
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2005.png)
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
+36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/36-%20Valid%20Sudoku.cpp)|Medium
 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/35-%20Search%20Insert%20Position.cpp)|Easy
 34  |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/34-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium
 33  |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/33-Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium
