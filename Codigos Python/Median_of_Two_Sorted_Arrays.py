@@ -1,3 +1,6 @@
+# Fonte: https://leetcode.com/problems/median-of-two-sorted-arrays/
+# Autor: Bruno Harlis
+# Data: 29/07/2021
 """
 PROBLEMA PROPOSTO:
 Dadas duas matrizes classificadas nums1 e nums2 de tamanho m e n respectivamente, 
