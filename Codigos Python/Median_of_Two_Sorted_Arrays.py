@@ -13,8 +13,8 @@ Entrada: nums1 = [1,3], nums2 = [2]
 Saída: 2,00000
 Explicação: matriz mesclada = [1,2,3] e a mediana é 2.
 
-Tempo de execução :  88 ms , mais rápido do que 84,93 % dos envios online do Python3.
-Uso de Memória :  14,4 MB , menos de 81,38 % de python3.
+Tempo de execução : 88 ms, mais rápido do que 84,93 % dos envios online do Python3.
+Uso de Memória : 14,4 MB, menos de 81,38 % de python3.
 """
 
 

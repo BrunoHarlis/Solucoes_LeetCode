@@ -67,7 +67,4 @@ def myAtoi(s):
         else:
             break
 
-    if negativo:
-        return r * -1
-    else:
-        return r
+    return r * -1 if negativo else r
