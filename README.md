@@ -3,7 +3,7 @@
  
  Quantidade de problemas resolvidos:  
  C++: 27  
- Python: 03  
+ Python: 05  
  
  ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2005.png)
 
@@ -28,8 +28,8 @@
 12  |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/12-IntegerToRoman.cpp)|Medium
 11  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/11-ContainerWithMostWater.cpp)|Medium
 09  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/9-PalindromeNumber.cpp)|Easy
-08  |[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/8-StringtoInteger%20(atoi).cpp)|Medium
-07  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/7-ReverseInteger.cpp)|Easy
+08  |[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[C++, ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/8-StringtoInteger%20(atoi).cpp)[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/String_to_int.py)|Medium
+07  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++, ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/7-ReverseInteger.cpp)[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Reverse_Inter.py)|Easy
 04  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++, ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/4-MedianOfTwoSortedArrays.cpp)[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Median_of_Two_Sorted_Arrays.py)|Hard
 03  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++, ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/3-LongestSubstringWithoutRepeatingCharacters.cpp)[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium
 02  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++ ](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/2-AddTwoNumbers.cpp)|Medium
