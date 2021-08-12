@@ -1,14 +1,18 @@
 # Soluções LeetCode
  Meu projeto para solucionar todos os problemas do site LeetCode.    
  
- Quantidade de problemas resolvidos:  
- C++: 27  
- Python: 05  
+ Quantidade de problemas resolvidos no site:  
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2005.png)
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2006.png)
+ 
+ 
+ C++: 27|Python: 07|Total: 34 
+----------|----------|----------
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
+58  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Length_of_Last_Word.py)|Easy
+53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Maximum_Subarray.py)|Easy
 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/36-%20Valid%20Sudoku.cpp)|Medium
 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/35-%20Search%20Insert%20Position.cpp)|Easy
 34  |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/34-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium
