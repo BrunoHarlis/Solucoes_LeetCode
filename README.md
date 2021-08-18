@@ -3,14 +3,17 @@
  
  Quantidade de problemas resolvidos no site:  
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2006.png)
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2007.png)
  
  
- C++: 27|Python: 07|Total: 34 
+ C++: 27|Python: 10|Total: 37 
 ----------|----------|----------
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
+69  |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Sqrt_x.py)|Easy
+67  |[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Add_Binary.py)|Easy
+66  |[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Plus_One.py)|Easy
 58  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Length_of_Last_Word.py)|Easy
 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Maximum_Subarray.py)|Easy
 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/36-%20Valid%20Sudoku.cpp)|Medium
