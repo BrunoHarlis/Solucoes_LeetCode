@@ -11,12 +11,11 @@ truncados e apenas a parte inteira do resultado é retornada.
 Nota: Você não tem permissão para usar nenhuma função expoente
 ou operador embutido, como pow(x, 0.5) ou  x ** 0.5.
 
-Exemplo 1:
-
+Exemplo 1
 Entrada: x = 4
 Saída: 2
-Exemplo 2:
 
+Exemplo 2
 Entrada: x = 8
 Saída: 2
 Explicação: A raiz quadrada de 8 é 2,82842 ... e, como a parte 
