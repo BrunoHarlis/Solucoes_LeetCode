@@ -3,14 +3,18 @@
  
  Quantidade de problemas resolvidos no site:  
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2007.png)
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2008.png)
  
  
- C++: 27|Python: 10|Total: 37 
+ Soluções em C++: 27|Soluções em Python: 14|Total: 41 
 ----------|----------|----------
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
+121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Pascal's_Triangle.py)|Easy
+119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Pascal's%20Triangle%20II.py)|Easy
+118 |[Pascal's Triangle]()|[Python]()|Easy
+88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Merge_Sorted_Array.py)|Easy
 69  |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Sqrt_x.py)|Easy
 67  |[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Add_Binary.py)|Easy
 66  |[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Plus_One.py)|Easy
