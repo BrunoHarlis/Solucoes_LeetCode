@@ -5,7 +5,7 @@ from Add_Binary import addBinary
 # Tests adapted from `problem-specifications//canonical-data.json`
 
 
-class TAdd_BinaryTest(unittest.TestCase):
+class Add_BinaryTest(unittest.TestCase):
     def test1(self):
         self.assertEqual(addBinary("1010", "1011"), "10101")
 
