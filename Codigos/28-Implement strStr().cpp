@@ -26,6 +26,9 @@
 * Uso de memória: 6,8 MB
 *****************************************************************************************/
 
+#include <iostream>
+#include <string>
+
 class Solution
 {
 public:
