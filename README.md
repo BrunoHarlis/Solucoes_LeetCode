@@ -3,18 +3,20 @@
  
  Quantidade de problemas resolvidos no site:  
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2008.png)
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2009.png)
  
  
- Soluções em C++: 27|Soluções em Python: 14|Total: 41 
+ Soluções em C++: 27|Soluções em Python: 16|Total: 43 
 ----------|----------|----------
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
+1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|Easy
 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Pascal's_Triangle.py)|Easy
 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Pascal's%20Triangle%20II.py)|Easy
 118 |[Pascal's Triangle]()|[Python]()|Easy
 88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Merge_Sorted_Array.py)|Easy
+70  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/70_Climbing_Stairs.py)|Easy
 69  |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Sqrt_x.py)|Easy
 67  |[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Add_Binary.py)|Easy
 66  |[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Plus_One.py)|Easy
@@ -24,6 +26,8 @@
 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/35-%20Search%20Insert%20Position.cpp)|Easy
 34  |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/34-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium
 33  |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/33-Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium
+30  |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Substring_with_Concatenation_of_All_Words.py)|Medium
+28  |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/28-Implement%20strStr().cpp)|Easy
 27  |[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/27-RemoveElement.cpp)|Easy
 26  |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/26-RemoveDuplicatesfromSortedArray.cpp)|Easy
 24  |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/24-SwapNodesinPairs.cpp)|Medium
