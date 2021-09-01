@@ -1,3 +1,7 @@
+# Fonte: https://leetcode.com/problems/excel-sheet-column-title/
+# Autor: Bruno Harlis
+# Data: 01/09/2021
+
 """
 PROBLEMA PROPOSTO
 Dado um número inteiro "columnNumber", retorna o título da coluna correspondente conforme aparece em uma planilha do Excel.
