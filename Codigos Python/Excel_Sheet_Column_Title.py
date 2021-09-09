@@ -34,7 +34,7 @@ Uso da memória: 14,2 MB, menos de 42,97 % dos envios.
 
 
 def convertToTitle(columnNumber):
-    alpha = ['A',  'B', 'C', 'D',  'E',  'F',  'G', 'H', 'I', 'J',  'K,',  'L',
+    alpha = ['A',  'B', 'C', 'D',  'E',  'F',  'G', 'H', 'I', 'J',  'K',  'L',
              'M', 'N', 'O', 'P',  'Q',  'R',  'S',  'T',  'U', 'V', 'W', 'X',  'Y',  'Z']
     answer = ''
 
