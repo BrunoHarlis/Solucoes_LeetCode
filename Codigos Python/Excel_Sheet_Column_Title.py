@@ -45,8 +45,3 @@ def convertToTitle(columnNumber):
         columnNumber = (columnNumber - 1) // 26
 
     return answer
-
-
-print(convertToTitle(52))
-print(convertToTitle(701))
-print(convertToTitle(2147483647))
