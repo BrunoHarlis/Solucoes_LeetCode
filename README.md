@@ -3,15 +3,17 @@
  
  Quantidade de problemas resolvidos no site:  
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2011.png)
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2012.png)
  
  
- Soluções em C++: 27|Soluções em Python: 19|Total: 46 
+ Soluções em C++: 27|Soluções em Python: 21|Total: 48 
 ----------|----------|----------
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
 1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|Easy
+202 |[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Happy_Number.py)|Easy
+171 |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Excel_Sheet_Column_Title.py)|Easy
 169 |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Majority_Element.py)|Easy
 168 |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Excel_Sheet_Column_Title.py)|Easy
 136 |[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Single_Number.py)|Easy
