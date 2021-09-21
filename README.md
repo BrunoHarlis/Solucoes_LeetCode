@@ -3,17 +3,19 @@
  
  Quantidade de problemas resolvidos no site:  
  
- ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2013.png)
+ ![GRAFICO](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Imagens/LeetCode%2014.png)
  
  
- Soluções em C++: 27|Soluções em Python: 22|Soluções em SQL: 02|Total: 51 
+ Soluções em C++: 27|Soluções em Python: 23|Soluções em SQL: 03|Total: 53 
 ----------|----------|----------|----------
 
 #|Problema|Solução|Dificuldade
 ----------|----------|----------|----------
 1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|Easy
+219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Contains_Duplicate_II.py)|Easy
 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Contains_Duplicate.py)|Easy
 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Happy_Number.py)|Easy
+182 |[Duplicate Emails](https://leetcode.com/problems/combine-two-tables/)|[SQL](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/SQL/Duplicate%20Emails.sql)|Easy
 181 |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/SQL/Employees_Earning_More_Than_Their_Managers.sql)|Easy
 175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/SQL/Combine_Two_Tables.sql)|Easy
 171 |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](https://github.com/BrunoHarlis/Solucoes_LeetCode/blob/main/Codigos%20Python/Excel_Sheet_Column_Title.py)|Easy
